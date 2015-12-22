@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Lalala"
+date:   2015-12-18 17:17:04 +0300
+categories: jekyll update
+---
+Nyoba Postingan pertama
