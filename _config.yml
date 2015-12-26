@@ -11,7 +11,7 @@ email: majeedreporters@gmail.com
 description: >
   Majeedr is awesome.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+url: "http://beta.majeedr.com/" # the base hostname & protocol for your site
 twitter_username: majeedrofficial
 github_username:  majeedr
 
