@@ -4,16 +4,18 @@ layout: page
 <h2>Kegiatan Majeedr</h2>
 <div class="post-list-poster">
     {% for post in site.posts %}
-            <div class="list-item">
-                <a class="post-image" href="{{ post.url | prepend: site.baseurl }}">
-                    <img class="post-poster" src="{{ post.poster }}">
-                    <div class="post-imagery post-imagery-overlay"></div>
-                    <div class="post-imagery post-imagery-image" style="background-image: url('{{ post.poster }}')"></div>
-                    <div class="post-imagery post-imagery-fallback"></div>
-                </a>
-                <a class="font-bigger" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
-                <span>{{ post.date | date: "%b %-d, %Y" }}</span></br>
-                <a class="button no-margin" href="{{ post.url | prepend: site.baseurl }}">Lihat Artikel</a> <a class="button button-facebook" href="{{ post.fb }}">Lihat di Facebook</a>
-            </div>
+        <div class="list-item">
+            <a class="post-image" href="{{ post.url | prepend: site.baseurl }}">
+                <img class="post-poster" src="{{ post.poster }}">
+                <div class="post-imagery post-imagery-overlay"></div>
+                <div class="post-imagery post-imagery-image" style="background-image: url('{{ post.poster }}')"></div>
+                <div class="post-imagery post-imagery-fallback"></div>
+            </a>
+            <a class="font-bigger" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></br>
+            <span>{{ post.date | date: "%b %-d, %Y" }}</span></br>
+            {% if post.categories contains 'kegiatan' %} pom {% endif %}
+            {% if post.categories contains 'Kegiatan' %} pom {% endif %}
+            <a class="button no-margin" href="{{ post.url | prepend: site.baseurl }}">Lihat Artikel</a> <a class="button button-facebook" href="{{ post.fb }}">Lihat di Facebook</a>
+        </div>
     {% endfor %}
 </div>
