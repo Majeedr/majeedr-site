@@ -3,7 +3,7 @@ layout: page
 ---
 <h2>Kegiatan Majeedr</h2>
 <div class="post-list-poster">
-    {% for post in posts %}
+    {% for post in site.posts %}
         {% if post.categories contains 'Kegiatan' %}
             <div class="list-item">
                 <a class="post-image" href="{{ post.url | prepend: site.baseurl }}">
