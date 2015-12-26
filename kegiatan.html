@@ -15,6 +15,8 @@ layout: page
             <span>{{ post.date | date: "%b %-d, %Y" }}</span></br>
             {% if post.categories contains 'kegiatan' %} pom {% endif %}
             {% if post.categories contains 'Kegiatan' %} pim {% endif %}
+            {% if post.category contains 'kegiatan' %} pamm {% endif %}
+            {% if post.category contains 'Kegiatan' %} pumm {% endif %}
             <a class="button no-margin" href="{{ post.url | prepend: site.baseurl }}">Lihat Artikel</a> <a class="button button-facebook" href="{{ post.fb }}">Lihat di Facebook</a>
         </div>
     {% endfor %}
