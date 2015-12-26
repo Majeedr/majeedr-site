@@ -4,7 +4,6 @@ layout: page
 <h2>Kegiatan Majeedr</h2>
 <div class="post-list-poster">
     {% for post in site.posts %}
-        {% if post.categories contains 'Kegiatan' %}
             <div class="list-item">
                 <a class="post-image" href="{{ post.url | prepend: site.baseurl }}">
                     <img class="post-poster" src="{{ post.poster }}">
@@ -16,6 +15,5 @@ layout: page
                 <span>{{ post.date | date: "%b %-d, %Y" }}</span></br>
                 <a class="button no-margin" href="{{ post.url | prepend: site.baseurl }}">Lihat Artikel</a> <a class="button button-facebook" href="{{ post.fb }}">Lihat di Facebook</a>
             </div>
-        {% endif %}
     {% endfor %}
 </div>
