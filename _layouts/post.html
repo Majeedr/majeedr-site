@@ -1,15 +1,27 @@
 ---
 layout: default
 ---
+{% assign member = site.data.members[page.author] %}
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
+    <header class="post-header">
+        <p class="post-categories">{% if page.categories %}<span>{{ page.categories | join:' • ' }}</span>{% endif %}</p>
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        <div class="post-imagery post-imagery-overlay"></div>
+        <div class="post-imagery post-imagery-image" style="background-image: url('{{ site.picture_url_big }}?uniq={{ post.date | date: "%d%m%Y" }}')"></div>
+        <div class="post-imagery post-imagery-fallback"></div>
+    </header>
+    <div class="wrapper-smaller">
+        <div class="profile-picture-wrap">
+            <div class="profile-picture" style="background-image:url('http://graph.facebook.com/{{ member.fuid }}/picture?width=200&height=200')">
+            </div>
+        </div>
+        <div class="post-content markdown-body" itemprop="articleBody">
+            {{ content }}
+        </div>
+        <p class="post-meta">
+            {% if member.name %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ member.name }}</span></span>{% endif %}<br />
+            {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% endif %}
+        </p>
+    </div>
 </article>

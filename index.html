@@ -1,42 +1,44 @@
 ---
 layout: default
 ---
-
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-      <!-- This loops through the paginated posts -->
-      {% for post in paginator.posts %}
-      <li>
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p class="author">
-          <span class="date">{{ post.date }}</span>
-        </p>
-        <div class="content">
-          {{ post.content }}
+    <div class="anti-navbar"></div>
+    <div class="wrapper">
+        <h3>Artikel Terbaru</h3>
+        <ul class="post-list-grid">
+            {% for post in paginator.posts | except:"category", "Kegiatan" %}
+            <li>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                    <h2>{{ post.title }}
+                    </h2>
+                    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <div class="post-imagery post-imagery-overlay"></div>
+                    <div class="post-imagery post-imagery-image" style="background-image: url('{{ site.picture_url_small }}?uniq={{ post.date | date: "%d%m%Y" }}{{ forloop.index }}')"></div>
+                    <div class="post-imagery post-imagery-fallback"></div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <div class="post-list-pagination">
+            <div class="inline-table">
+                <div class="table-cell">
+                {% if paginator.previous_page %}
+                    <a href="{{ paginator.previous_page_path }}" class="button previous">Previous</a>
+                {% else %}
+                    <span class="button disabled previous">Previous</span>
+                {% endif %}
+                </div>
+                <div class="table-cell">
+                    <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+                </div>
+                <div class="table-cell">
+                {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path }}" class="next button">Next</a>
+                {% else %}
+                    <span class="next button disabled">Next</span>
+                {% endif %}
+                </div>
+            </div>
         </div>
-    </li>
-
-      {% endfor %}
-
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% else %}
-      <span class="previous">Previous</span>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% else %}
-      <span class="next ">Next</span>
-    {% endif %}
-  </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+    </div>
 </div>

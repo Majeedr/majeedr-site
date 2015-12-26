@@ -1,0 +1,27 @@
+<h1>Daftar {{ include.name }}</h1>
+
+<div class="columns">
+    <ul class="item-box inline">
+    {% assign list = include.rawlist | sort %}
+    {% for item in list %}
+        <li><a href="#{{ item[0] }}">{{ item[0] | capitalize }}</a> - <span>{{ item[1].size }} {% if item[1].size > 1 %}posts{% else %}post{% endif %}</span></li>
+    {% endfor %}
+    </ul>
+</div>
+
+<h2>Daftar Artikel</h2>
+{% for item in list %}
+    <h3 id="{{ item[0] }}">{{ item[0] | capitalize }}</h3>
+    <ul class="post-list">
+        {% assign pages_list = item[1] | sort: 'title' %}
+        {% for post in pages_list%}
+            {% if post.title != null %}
+            {% if group == null or group == post.group %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> - <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></li>
+            {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+    </ul>
+{% endfor %}

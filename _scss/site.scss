@@ -1,0 +1,18 @@
+$margin: 16px;
+
+$color-accent: #6d276a;
+$color-border: #e9f0f3;
+
+$serif: "Merriweather", "Noto Naskh Arabic", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$sans-serif: "Fira Sans", "Noto Naskh Arabic", "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+$container-width: 980px;
+$container-smaller-width: 740px;
+
+$border-default: solid 1px $color-border;
+
+$navbar-height: 75px;
+
+@import 'reset';
+@import 'general';
+@import 'markdown-body';

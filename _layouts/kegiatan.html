@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% assign member = site.data.members[page.author] %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header post-header-krp">
+        <img class="post-poster" src="{{ page.poster }}">
+        <div class="post-header-button">
+            <a class="button button-facebook" href="{{ page.fb }}">Lihat di Facebook</a>
+        </div>
+        <div class="post-imagery post-imagery-overlay"></div>
+        <div class="post-imagery post-imagery-image" style="background-image: url('{{ page.poster }}')"></div>
+        <div class="post-imagery post-imagery-fallback"></div>
+    </header>
+    <div class="wrapper-smaller">
+        <div class="post-content markdown-body" itemprop="articleBody">
+            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            {{ content }}
+        </div>
+    </div>
+</article>
