@@ -51,7 +51,10 @@ The evidence for righteous people is His Saying,
 
 Translation: “Those whom they call upon desire (for themselves) means of access to their Lord (Allaah), as to which of them should be the nearest and they hope for His Mercy and fear His Torment.” (al-Qur-aan, suurah al-Israa’, 17: 57)
 The evidence for trees and stones is His Saying,
+
+{:.arabic}
 أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ
+
 Translation: “Have you then considered al-Laat and al-Uzzaa. And Manaat, the other third?” (al-Qur-aan, suurah an-Najm, 53: 19-20)
 The hadiits of Abii Waaqid al-Laitsiy radhiyallaahu anhu, he said, “We went out to Hunain with the Prophet shallallaahu alaihi wa sallam. (And we have recently left disbelief behind.) There is a lotus tree that becomes the place of i”tikaaf for the unbelievers and the place to hang their weapons. They call it: Dzaat Anwaath. So we passed by that tree and we said, “O the Messenger of Allaah, make for us Dzaat Anwaath as they have Dzaat Anwaath.”
 
