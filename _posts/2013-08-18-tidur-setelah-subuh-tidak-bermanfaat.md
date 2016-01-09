@@ -13,11 +13,8 @@ tags:
 author: ezzat
 ---
 
-
-
 Alasan :
-Kehilangan barakah pagi hari
-
+# Kehilangan barakah pagi hari
 
 Sebagaimana terdapat dalam Sunan Tirmidzi dan Sunan Abu Daud dan lainnya dari hadis Sakhr bin Wada’ah al Ghamidi radliyallahu ‘anhu, bahwasannya Rasulullah shalallahu ‘alaihi wasallam bersabda : “Ya Allah berikanlah berkah kepada umatku di pagi hari mereka”. Ini adalah doa yang agung yang  Rasulullah panjatkan agar umatnya memberi perhatian yang besar kepada waktu pagi.¹
 
@@ -25,7 +22,7 @@ Bisa ketinggalan waktu shalat subuh
 
 Tidak sedikit dari kita tidur setelah sahur sehingga hal ini bisa menyebabkan ketinggalan jamaah shalat subuh (bagi laki-laki) atau bahkan kehilangan waktu shalat subuh.
 
-Menyelisihi kebiasaan para salaf
+# Menyelisihi kebiasaan para salaf
 
 Sebagian ulama salaf membenci tidur setelah shalat subuh.
 
@@ -41,13 +38,13 @@ Skakhr al Ghamidi mengatakan, “Kebiasaan Nabi shallallahu ‘alaihi wa sallam 
 
 Shakhr al Ghamidi adalah seorang pedagang. Kebiasaan beliau jika mengirim ekspedisi dagang adalah memberangkatkannya di waktu pagi. Akhirnya beliau pun menjadi kaya dan mendapatkan harta yang banyak. Hadits di atas diriwayatkan oleh Abu Daud, Tirmidzi dan Ibnu Majah namun ada salah satu perawi yang tidak diketahui. Akan tetapi hadits ini memiliki penguat dari Ali, Ibnu Umar, Ibnu Abbas, Ibnu Mas’ud dll.²
 
-Membuat malas dan melemahkan badan
+# Membuat malas dan melemahkan badan
 
 Ibnul Qayyim ketika menjelaskan masalah banyak tidur, beliau menyatakan bahwa banyak tidur dapat mematikan hati dan membuat badan merasa malas serta membuang-buang waktu. Beliau rahimahullah mengatakan, : “Banyak tidur dapat mengakibatkan lalai dan malas-malasan. Banyak tidur ada yang termasuk dilarang dan ada pula yang dapat menimbulkan bahaya bagi badan. Tidur pagi juga Menyebabkan berbagai penyakit badan, di antaranya adalah melemahkan syahwat. (Zaadul Ma’ad, 4/222)
 
 Ibnul Qayyim rahimahullah berkata, “Pagi hari bagi seseorang itu seperti waktu muda dan akhir harinya seperti waktu tuanya.” (Miftah Daris Sa’adah, 2/216). Amalan seseorang di waktu muda berpengaruh terhadap amalannya di waktu tua. Jadi jika seseorang di awal pagi sudah malas-malasan dengan sering tidur, maka di sore harinya dia juga akan malas-malasan pula.³
 
-Pagi adalah waktu dibaginya rizki
+# Pagi adalah waktu dibaginya rizki
 
 Imam Ibnul Qayyim mengatakan dalam kitabnya Zaadul Ma’aad, bahwasannya orang yang tidur di pagi hari akan menghalanginya dari mendapatkan rizki. Karena waktu subuh adalah waktu di mana makhluk mencari rizkinya, dan pada waktu tersebut Allah membagi rizki para makhluk.
 
@@ -63,7 +60,4 @@ Syaikh prof. ‘Abdurrazaaq al-Badr, syarah  hadist doa subuh. Mp3
 Tegar diatas Sunnah, blog Ustadz Aris Munandar. Hukum tidur setelah subuh
 Mengenal ajaran islam lebih dekat,disusun oleh Muhammad ‘Abduh Tuasikal.ST. Kebiasaan tidur pagi ternyata berbahaya
 
-
-
-source : muslimah.or.id dengan sedikit perubahan
-
+source : [muslimah.or.id](muslimah.or.id) dengan sedikit perubahan
