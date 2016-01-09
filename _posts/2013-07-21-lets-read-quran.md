@@ -12,10 +12,11 @@ tags:
 author: ezzat
 ---
 
---Pahala yang dijanjikan bagi orang yang membaca Al Qur’an--
+Pahala yang dijanjikan bagi orang yang membaca Al Qur’an
 
+{:.arabic}
 من قَرأ حرفاً من كتاب الله فَلَهُ به حَسَنَةٌ، والحسنَةُ بعشْر أمْثالها
 
 “Barangsiapa yang membaca satu huruf dari Kitabullah, maka ia mendapat satu kebaikan. Dan satu kebaikan akan dibalas sebanyak sepuluh kali lipat”
 
- (H.R Tirmidzi)
+(H.R Tirmidzi)
