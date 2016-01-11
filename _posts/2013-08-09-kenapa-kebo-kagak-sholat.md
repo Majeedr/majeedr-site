@@ -14,50 +14,59 @@ author: wildan
 ---
 Bismillahirrohmaanirrohiem...
 
-saya bawakan sebuah hikayat teman. Silakan mengambil pelajaran... kalau ada yang kurang berkenan, mohon maaf ya, namanya juga hikayat.. hehe.
+Saya bawakan sebuah hikayat teman. Silakan mengambil pelajaran...
 
-Di sebuah ladang yang terletak di dekat msjid, ada sebuah kandang kerbau, disana, ada seekor anak kerbau yang baru saja lahir.
-hingga ketika hari sdh gelap, dan suara adzan maghrib terdengar....
+Kalau ada yang kurang berkenan, mohon maaf ya, namanya juga hikayat.. hehe.
+
+Di sebuah ladang yang terletak di dekat masjid, ada sebuah kandang kerbau, disana, ada seekor anak kerbau yang baru saja lahir.
+Hingga ketika hari sudah gelap, dan suara adzan maghrib terdengar....
 
 > "Allahu akbar Allahu akbar"....
 
-sang anak kerbau yang baru lahir itu kaget dengan suara keras nan aneh yang baru pertama kali ia denger,,
-tak sampe disitu, ia semakin kaget ketika sejurus kemudian terlihat banyak manusia melangkah ke masjid... karena insting sang anak kerbau (tentu anak manusia lebih jenius khan :)) sang anak bertanya ke induknya:
+Sang anak kerbau yang baru lahir itu kaget dengan suara keras nan aneh yang baru pertama kali ia denger,
+tak sampe disitu, ia semakin kaget ketika sejurus kemudian terlihat banyak manusia melangkah ke masjid...
+Karena insting sang anak kerbau (tentu anak manusia lebih jenius khan :)) sang anak bertanya ke induknya:
 
-"suara apakah itu mom?" si anak kerbau mulai bertanya
+"Suara apakah itu mom?" si anak kerbau mulai bertanya
 
-"itu adzan le.." sang indukpun menimpali
+"Itu adzan le.." sang indukpun menimpali
 
-"adzan itu apa mom...?" si anak kerbau kebingungan
+"Adzan itu apa mom...?" si anak kerbau kebingungan
 
-"adzan itu suara yang trdengar kalo udah tiba waktu sholat le... tu kan, orang-orang pada berjalan ke msjid, mereka pada mau sholat le...." sang ibu panjang lebar
+"Adzan itu suara yang trdengar kalo udah tiba waktu sholat le... tu kan, orang-orang pada berjalan ke msjid, mereka pada mau sholat le...." sang ibu panjang lebar
 
-"lho tapi kok kita gak sholat mom...?"
+"Lho tapi kok kita gak sholat mom...?"
 
-"lha kan kita kebo le...." singkat sang ibu menjawab
+"Lha kan kita kebo le...." singkat sang ibu menjawab
 
-"jadi kebo kagak sholat mom...?"
+"Jadi kebo kagak sholat mom...?"
 
-"iya le.. yang sholat itu manusia aja, kebo nggak perlu sholat"
+"Iya le.. Yang sholat itu manusia aja, kebo nggak perlu sholat"
 
-"ehmmm... jadi yg kudu sholat itu manusia ya mom...?"
+"Ehmmm... Jadi yg kudu sholat itu manusia ya mom...?"
 
-"iyaaaa..."
+"Iyaaaa..."
 
-"trus kebo kagak sholat ya mom...?"
+"Trus kebo kagak sholat ya mom...?"
 
-"iya le............................."
+"Iya le............................."
 
-"ok mom... jadi gitu yaaa"
+"Ok mom... Jadi gitu yaaa"
 
-dan tiba2 sang anak nyeletuk...
 
-"kalo itu manusia apa kebo mom...?"
+Dan tiba2 sang anak nyeletuk,
 
-si ibu-njawab, "itu juga manusia le?"
+"Kalo itu manusia apa kebo mom...?"
 
-"kok kagak sholat? tapi kok bentuknya kayak manusia?" si anak Kebo mencoba mengerti
+Si ibu njawab, "Itu juga manusia le?"
 
-sang ibu menjawab sambil geleng-geleng "ehm.... kalo itu sih pengecualian le......."
+"Kok kagak sholat? Tapi kok bentuknya kayak manusia?" si anak Kebo mencoba mengerti
 
-hehe:) jangan salahkan anak kebonya ye... mungkin blm tahu hobinya orang di sekitarnye.. jadi masih suka frontal kalo ngomong... maapin ye... doain aja biar klo besar nanti jadi anak yg sholeh...., berbakti pada ortu........, rajin sholat........ eh enggak deng... kan dia kebo... ngapain juga sholat.....
+Sang ibu menjawab sambil geleng-geleng "Ehm.... Kalo itu sih pengecualian le......."
+
+Hehe:) jangan salahkan anak kebonya ye...
+Mungkin blm tahu hobinya orang di sekitarnye..
+Jadi masih suka frontal kalo ngomong... Maapin ye...
+Doain aja biar klo besar nanti jadi anak yg sholeh....,
+Berbakti pada ortu........, 
+Rajin sholat........ Eh enggak deng... Kan dia kebo... Ngapain juga sholat.....
