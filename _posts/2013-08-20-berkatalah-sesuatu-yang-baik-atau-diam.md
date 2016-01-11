@@ -9,15 +9,11 @@ tags:
 - Lisan
 author: ezzat
 ---
+Al Hadits,
 
- 
-مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ online casino  لِيَصْمُتْ
-
+{:.arabic}
+مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ  لِيَصْمُتْ
 
 
 "Barangsiapa yang beriman kepada Allah dan hari akhir hendaklah ia berkata yang baik atau diam." 
-HR. Bukhari dan Muslim
-&nbsp;
-
-
-
+[HR. Bukhari dan Muslim]

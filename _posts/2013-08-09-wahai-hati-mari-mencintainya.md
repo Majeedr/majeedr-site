@@ -12,11 +12,19 @@ tags:
 author: wildan
 ---
 
-Kapankah kita merasakan kelezatan sebuah makanan? jawabannya adalah;  pertama, ketika kita tahu bahwa makanan itu memang lezat. Kedua, ketika kita sudah lama tidak merasakan makanan. yups! semakin lama kita tidak makan, tentu membuat kita semakin rindu terhadap makanan. Contoh riilnya, kapankah ayam bakar akan terasa lezat? ya, jika kita tahu, bahwa itu adalah ayam bakar, juga ketika perut kita merasa lapar, tatkala diri rindu pada makanan...
+Kapankah kita merasakan kelezatan sebuah makanan?
+
+Jawabannya adalah,
+
+__Pertama__, ketika kita tahu bahwa makanan itu memang lezat.
+
+__Kedua__, ketika kita sudah lama tidak merasakan makanan. Yups! semakin lama kita tidak makan, tentu membuat kita semakin rindu terhadap makanan.
+
+Contoh riilnya, kapankah ayam bakar akan terasa lezat? Ya, jika kita tahu, bahwa itu adalah ayam bakar, juga ketika perut kita merasa lapar, tatkala diri rindu pada makanan...
 
 Contoh selanjutnya, kapan kita merasakan segarnya minuman? tentu ketika kita sedang haus, dan kita tahu bahwa minuman itu dapat menghilangkan dahaga (bukan minyak, oli, dll)....
 
-Maka demikian pula, kita akan mengetahui, dan merasakan cinta Allah, ketika kita telah mengenal Allah! dan    konsekuensiya, kita akan rindu kepadaNya. Ya, pertama, kita harus mengenal Allah! Dengan begitu, kita akan rindu kepadaNya. Oleh karena itu, semakin seseorang mengenal Allah, ia akan semakin rindu kepadaNya.
+Maka demikian pula, kita akan mengetahui, dan merasakan cinta Allah, ketika kita telah mengenal Allah! dan konsekuensiya, kita akan rindu kepada-Nya. Ya, pertama, kita harus mengenal Allah! Dengan begitu, kita akan rindu kepadaNya. Oleh karena itu, semakin seseorang mengenal Allah, ia akan semakin rindu kepada-Nya.
 
 Semua orang menginginkan kelezatan, maka orang yang berakal, ia akan berusaha meraih kelezatan tersebut, dan menghindari segala sesuatu yang dapat menghalanginya dari kelezatann tersebut. Ia akan berusaha sekuat tenaga, ia akan melakukan apapun untuk kelezatan tersebut. Begitu juga, ia akan tinggalkan segala sesuatu yang tampaknya lezat, tapi menghalanginya dari kelezatan yang sebenarnya.
 

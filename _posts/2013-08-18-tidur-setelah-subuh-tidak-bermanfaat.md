@@ -14,6 +14,7 @@ author: ezzat
 ---
 
 Alasan :
+
 # Kehilangan barakah pagi hari
 
 Sebagaimana terdapat dalam Sunan Tirmidzi dan Sunan Abu Daud dan lainnya dari hadis Sakhr bin Wada’ah al Ghamidi radliyallahu ‘anhu, bahwasannya Rasulullah shalallahu ‘alaihi wasallam bersabda : “Ya Allah berikanlah berkah kepada umatku di pagi hari mereka”. Ini adalah doa yang agung yang  Rasulullah panjatkan agar umatnya memberi perhatian yang besar kepada waktu pagi.¹
@@ -54,10 +55,12 @@ Menurut para salaf, tidur yang terlarang adalah tidur ketika selesai shalat shub
 
 Semoga Allah selalu memberi taufiq dan hidayahnya kepada kita semua.
 
-Wa shallaatu wassalaam ‘ala anbyai wal mursaliin wal hamdulillahi rabbil ‘aalamiinMaraji’ :
+Wa shallaatu wassalaam ‘ala anbyai wal mursaliin wal hamdulillahi rabbil ‘aalamiin
 
-Syaikh prof. ‘Abdurrazaaq al-Badr, syarah  hadist doa subuh. Mp3
-Tegar diatas Sunnah, blog Ustadz Aris Munandar. Hukum tidur setelah subuh
-Mengenal ajaran islam lebih dekat,disusun oleh Muhammad ‘Abduh Tuasikal.ST. Kebiasaan tidur pagi ternyata berbahaya
+## Maraji’ :
+
+1. Syaikh prof. ‘Abdurrazaaq al-Badr, Audio "Syarah Hadist Doa Subuh"
+2. Tegar diatas Sunnah, blog Ustadz Aris Munandar. Hukum tidur setelah subuh
+3. Mengenal ajaran islam lebih dekat,disusun oleh Muhammad ‘Abduh Tuasikal.ST. Kebiasaan tidur pagi ternyata berbahaya
 
 source : [muslimah.or.id](muslimah.or.id) dengan sedikit perubahan
