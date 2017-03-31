@@ -6,7 +6,8 @@ layout: default
     <div class="wrapper">
         <h3>Artikel Terbaru</h3>
         <ul class="post-list-grid">
-            {% for post in paginator.posts | except:"category", "Kegiatan" %}
+            {% assign relevant = paginator.posts | except: "category","Kegiatan" %}
+            {% for post in relevant %}
             <li>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                     <h2>{{ post.title }}
